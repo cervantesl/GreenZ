@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="240" height="13" tilewidth="16" tileheight="16" nextobjectid="32">
+ <tileset firstgid="1" name="Screenshot_3" tilewidth="16" tileheight="16" tilecount="25" columns="5">
+  <image source="../../../Screenshot_3.png" width="89" height="86"/>
+ </tileset>
+ <tileset firstgid="26" name="sheet" tilewidth="16" tileheight="16" tilecount="136" columns="17">
+  <image source="../../../sheet.png" width="272" height="128"/>
+ </tileset>
+ <layer name="Capa de Patrones 1" width="240" height="13">
+  <data encoding="base64" compression="zlib">
+   eJztWolOwzAMdTnHBmzACuxH9mv8PqmGhefauVq3ltpITyW2YzfHaxKPBgBuAm4D7gLuA5pVZirj+mYgtFgp+5IYDwxD3znVB3xSbBVQGyxW81bbFsdtR9DVHwM2AU+R/nG8BLwG7BUfq8xO1gh6zo1SaLEk2xgnY9hBf+2NBWntU87G9BxYPM35hozbgaCrP8M1H3PwHvARcFR8rDJbGddzbpRCiyXZUs6UxDhAf+2NAY2bKU7H9mKYcC6bTDsct5agq7/BNR9z8BXwHXBSfKwyWxnXc26UQosl2VLelMRoob/2xjor8/oW4ryN7U2dHhzOOR27T7hwkP6NfMwBjSH5WGW2Mq7n3CiFFkuyRT42CZ81d+Lcs3LqzruHPp8pb2N7E3J9jHlrBrSV5lzj65AYHvI5S5PF1m6tf81G+1ZwHnG7mjvxkPMyHYMj03PexvYm5Lq3OZe4N0YMD3f7pckkPT5r/Ws2HWektcP3Q87hmjtxChp3eR75xGw4bzG+1C/kurc5t5J5yOcsTSbp8VnrX7PBuytf5zSfhRymdjV3Yu0cHssd03Mx1rkd8laKz/uFXPc251YyD3f7pckkPT5r/Ws22r2L5rOQw/Rcnft7TQ1ovpiei7HO7bRvg8ZhnuPxMOdWMg/5nKXJJD0+a/3HclhcB3DNAeRwC/pvymOC5ovpuRjrfF/G95X6qPXP25xbyX5mhmX+wDJubv+ktjDh+KYK5XA74XtJQC7j/ov7cur9Jf56y19Zyc5/sC5nAV2xvNtbxI31R4oj+cttPxS5hXJ4ivfSQPPHW/jfl3MK/1Z5yC1NIZubv5Z3e4u4sf5IcSR/ue3n4PCc/OX/i1FaplpXnmS/U3HThw==
+  </data>
+ </layer>
+ <layer name="Capa de patrones 2" width="240" height="13">
+  <data encoding="base64" compression="zlib">
+   eJztmVlv1DAUhT0sw1KgBdpC2d/ZX3hk+wNsf2BY3is2IbGoUlleAPHA9nc51sTqkWvnxjMe53bwkT4pi5Pce5MT24kxO0OnwOkervsuwvspzhnKhbe15Sod+z9Kyn/QsAvsBnvA3gBu+4AYRo4dEgvEsOWYEtL6LFwEl3q47iz8G8qFt7nl0H2QjrXSeg9TdAacBefAeXChpa30bMT8dNCDPdvmQwt7dolw2/ryb6gWKbXcCeqazzePXP7tEg/fh9T69/Wuy6nL4Aq4Cq6B61OcK+anxQbft+zNmO/ZsyuE29aHf2Pv7Zy11KBJ83lrZuNfKZ55q38X3QS3wG1wB9wV2ttnt8sYmVlu8H076MCKxyo4Qev2fPvAfnDAjD0fiimnYu/t1Fpq16T5fDVbffH3gvHMW/276B64Dx6Ah+CR0N4+u13GyIw/FnZ95zAC99Ps2ZNgrYHfBYfAYXDEjPt5dz2OoYRSa6ld2vKR4tEWbwmNwGPwBDwFz4T2dn4R+061GGCdWKJl68uFAP742o2bfQ/zu+AoOAaOm3E/7zzLcZTQyKTVUrtGRlc+I9Mej7R/HvUcvAAvwSvwWmhv5xex703rU+K8y970x83Ovzwn9vc5zy4TJZRaS+3Slo8Uj7Z4S2gTfASfwGfwRWhv5xc8d2UP2/VJ/OrWuc/lfnq1WXb+5HOE5uHOs2tELn1o2ZdSy43Ec1v9EPbnVuqzMWtJ8WiLt4R+gl/gN/gD/grt7fyCvy85/0zb9+Ymp2e7KrWW2qUtHykebfFqlJ1f+N+ZUvvdElRVVW3/n/MmQt9+rd6tqtou/9/ODYG+vVv9W1W1Jf//jlbvhuLJqX9zP8vk
+  </data>
+ </layer>
+ <layer name="Capa de patrones 3" width="240" height="13">
+  <data encoding="base64" compression="zlib">
+   eJztmdlKxDAUhvMgbi/gdqHgjdulCm4v4DI36pUbDNYrN7AuDLi9rv9gi6Hk1GbSTBr7f/AxcJjTptOck7TTVUolmY/Z57PBRDOF1ypurtTvtSQlpp7O/6TMv3Pui8Ox82vTjf1+ETN63Zbd5/6cSCt8LxZMc9xUzzFi6g0u/YA0l3yedlV5XRbnROzz4a/1L9eErzW5yAgchWNwHE5YxKR88r+IqU8fwePMk8BjGQaTcApOwxk4axGT8gnR60jXd03pe97Y9+9VWIRLcBmuwFWLmJRPSL+O9GfmumpK6gu5+nu2NtTvJtyC23AH7lrEpHxCpHc/rjVVPK6pR/hcf039I+Q+fQ/uwwN4CDsWMSmftAvTnPZVU1JfGNb74Kb973IKz+A5vICXFjEpn/zwCnsW8Sr0svw6x+PKoGviGlyHGw7n0mlj/d7AW3gH7+GDRUzKj5FiTSwEGUWchF4TfaP3mabV7xt8hx/wE35ZxKR8QgghhBDfzIUeACFkYELU73wF6+Ib3e+rUA==
+  </data>
+ </layer>
+ <layer name="Capa de patrones 4" width="240" height="13">
+  <data encoding="base64" compression="zlib">
+   eJztme1OwyAUhlFnnZu6qZu6n3NqjH+nLt6CeiN+xL8mzjvw45o9ZJzk9AT6QWlpK2/yZKVAgYa3B5gQQUHt0Aew1PDpsU9rwDqwAXSATUJH5VN4WVpnG+gp8F5QUFtUR/9GwBbQFXH/9VQ6YvCytM4eMFDgvaCgtqiO/u0DO8CuiPtvoNJ9Bi9L6xwCIwXea4Mu1e+r1178bz0Bz8BLQh5FV66ovoBvDT8ltJVVQ2AfOBBx/41UesjgZWmdE2CiwHtN1hlwyrjw2iM3qmq+uxR6R+cVna98eqpKjYEj4FjE/TdR6TGDl6V1dM9psm6AW8bCa4/cqM7zPSnO+lTXdwcyip5Ryf2uyd+4H6ZnWzLNY7StluT6qsBz0nSXkNd0/9I4a+MHXZx25S2TT5PirE81xb/0jErud/n6Gf2J+2H0baTS3O+2kv6V69dz4X7NOgemYrUenpFr/jtT7VNonm2/cFwmXI2XxlkbP5S536urT02qwr+m/4LyiJ5RSa/+ivj6+U2s/IleRt+i17P6NynuSUn/YvxzHfN0cdUG236ltd+kGN803QMPwGOOOnLOm/yr+xbzMxNK0nc7z3Mk1yLucel/jK/zDPWzkDROV5jiVZltIjZy5V/T+Ko8Y0t7x1OGTxWZD6Z36ioW2MYP+j8t3e+66lcV4zTN97LfraldnCdFvr1ZZBpflfE77zv2qSLzwdccS+vTu4HgX3/tZvWfD//ytoJ/y51jtgT/+mu3zv6lspknPtU2/y7ItWB5rvr1B5Fmzjk=
+  </data>
+ </layer>
+ <objectgroup name="solidos">
+  <object id="1" x="34.5" y="144.5" width="379.5" height="61"/>
+  <object id="2" x="240.5" y="113" width="45.5" height="31.5"/>
+  <object id="3" x="497.5" y="145" width="398" height="61.5"/>
+  <object id="4" x="593" y="113.5" width="300.5" height="30"/>
+  <object id="5" x="753.5" y="63.5" width="93.5" height="50"/>
+  <object id="6" x="978" y="160.5" width="268" height="47.5"/>
+  <object id="7" x="1106" y="116" width="139.5" height="44"/>
+  <object id="9" x="1394.5" y="145.5" width="108" height="62.5"/>
+  <object id="10" x="1524.5" y="101.5" width="54" height="23.5"/>
+  <object id="11" x="1506.5" y="-0.5" width="137" height="13"/>
+  <object id="12" x="1619" y="65.5" width="88.5" height="29"/>
+  <object id="13" x="1777.5" y="95" width="105.5" height="30.5"/>
+  <object id="14" x="1874.5" y="0.5" width="90" height="29"/>
+  <object id="15" x="1921" y="144.5" width="188" height="62.5"/>
+  <object id="16" x="2148" y="95" width="41.5" height="33"/>
+  <object id="17" x="2241.5" y="78.5" width="43.5" height="35"/>
+  <object id="18" x="2338" y="49.5" width="43.5" height="31.5"/>
+  <object id="19" x="2449" y="48.5" width="92.5" height="32"/>
+  <object id="20" x="2608" y="145" width="252.5" height="59.5"/>
+  <object id="21" x="2864.5" y="0" width="106.5" height="58.5"/>
+  <object id="22" x="2946" y="127.333" width="508.667" height="79.3333"/>
+  <object id="23" x="3549.33" y="127.333" width="290" height="80.6667"/>
+ </objectgroup>
+ <objectgroup name="muertos">
+  <object id="24" x="1" y="159.5" width="30" height="47.5"/>
+  <object id="25" x="417" y="160" width="77" height="46.5"/>
+  <object id="26" x="898" y="160" width="75" height="46.5"/>
+  <object id="27" x="1250.5" y="160" width="140" height="49"/>
+  <object id="28" x="1508" y="160" width="409" height="47.5"/>
+  <object id="29" x="2116" y="160.5" width="483.5" height="47.5"/>
+  <object id="30" x="2869.5" y="161" width="69" height="45"/>
+  <object id="31" x="3465" y="161.5" width="80" height="45.5"/>
+ </objectgroup>
+</map>

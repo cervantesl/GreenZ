@@ -1,0 +1,20 @@
+
+button.png
+size: 2048,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+arrow_button_active.
+  rotate: false
+  xy: 641, 10
+  size: 640, 300
+  orig: 640, 300
+  offset: 0, 0
+  index: -1
+arrow_button_idle.
+  rotate: false
+  xy: 2, 2
+  size: 637, 308
+  orig: 637, 308
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+hud.png
+size: 2048,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Magic_button_blue
+  rotate: false
+  xy: 2, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+arrow_button_active.
+  rotate: false
+  xy: 2, 204
+  size: 640, 300
+  orig: 640, 300
+  offset: 0, 0
+  index: -1
+arrow_button_idle.
+  rotate: false
+  xy: 644, 199
+  size: 629, 305
+  orig: 629, 305
+  offset: 0, 0
+  index: -1

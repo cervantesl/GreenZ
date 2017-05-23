@@ -1,0 +1,20 @@
+
+personajes.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+2ZombieSpriteSheet
+  rotate: false
+  xy: 740, 2
+  size: 124, 144
+  orig: 124, 144
+  offset: 0, 0
+  index: -1
+characters
+  rotate: false
+  xy: 2, 18
+  size: 736, 128
+  orig: 736, 128
+  offset: 0, 0
+  index: -1
